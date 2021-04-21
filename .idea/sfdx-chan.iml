@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="IlluminatedCloud" name="Illuminated Cloud">
       <configuration>
-        <option name="connectionName" value="sfdx-chan" />
+        <option name="connectionName" value="sfdx-maria" />
         <option name="connectionType" value="SFDX" />
       </configuration>
     </facet>
