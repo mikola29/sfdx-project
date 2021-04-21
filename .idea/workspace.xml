@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24db89d-87aa-461e-b33e-09d6e95c7f89" name="Default Changelist" comment="" />
+    <list default="true" id="b24db89d-87aa-461e-b33e-09d6e95c7f89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/illuminatedCloud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IlluminatedCloud/DevHub/OfflineSymbolTable.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IlluminatedCloud/sfdx_chan/OfflineSymbolTable.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfdx-chan/main/default/aura/RecordMap/RecordMap.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfdx-chan/main/default/aura/RecordMap/RecordMap.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfdx-chan/main/default/aura/RecordMap/RecordMap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfdx-chan/main/default/aura/RecordMap/RecordMap.design" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfdx-chan/main/default/aura/RecordMap/RecordMapController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfdx-chan/main/default/aura/RecordMap/RecordMapHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sfdx-chan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sfdx-chan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="IlluminatedCloudWorkspaceSettings">
     <option name="moduleWorkspaceSettings">
@@ -19,22 +36,57 @@
         </entry>
       </map>
     </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="DevHub">
+              <value>
+                <ConnectionWorkspaceSettings>
+                  <option name="buildSuccessDatesBySourceRootRelativePath">
+                    <map>
+                      <entry key="AURADEFINITIONBUNDLE:RECORDMAP" value="1619031197000" />
+                    </map>
+                  </option>
+                </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1qqcS4wsrlkYVBUJHIXPblznx68" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mikol\WebstormProjects\sfdx-chan\sfdx-chan\main\default\aura" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -47,17 +99,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617810556564</updated>
-      <workItem from="1617810563900" duration="1028000" />
+      <workItem from="1617810563900" duration="2260000" />
+      <workItem from="1617812853886" duration="1275000" />
+      <workItem from="1619030892851" duration="541000" />
+      <workItem from="1619031475305" duration="808000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="388" y="193" key="#Illuminated_Cloud_(sfdx-chan)" timestamp="1617810595105">
+    <state x="633" y="291" key="#ESLint" timestamp="1619031586926">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="388" y="193" key="#Illuminated_Cloud_(sfdx-chan)/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1617810595105" />
+    <state x="633" y="291" key="#ESLint/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1619031586926" />
+    <state x="344" y="40" key="#IlluminatedCloud_(sfdx-chan)" timestamp="1619030910213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="344" y="40" key="#IlluminatedCloud_(sfdx-chan)/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1619030910213" />
+    <state x="388" y="193" key="#Illuminated_Cloud_(sfdx-chan)" timestamp="1619031340341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="193" key="#Illuminated_Cloud_(sfdx-chan)/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1619031340341" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1617813376316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1617813376316" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1617813390447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1617813390447" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1617812563143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1617812563143" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1617813427915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1617813427915" />
+    <state x="587" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617813009244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="587" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1617813009244" />
+    <state x="569" y="308" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1617813424411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="308" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1617813424411" />
   </component>
 </project>
